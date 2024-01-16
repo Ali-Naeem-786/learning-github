@@ -1,2 +1,2 @@
 # learning-github
-i am watching github tutorial
+i am watching github (tutorial)
